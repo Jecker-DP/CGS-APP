@@ -1,0 +1,4 @@
+- [x] Update notification query in Home.php to include id field
+- [x] Add delete button for read notifications in Home.php
+- [x] Create notification_action.php to handle notification deletion
+- [x] Update appointment_action.php to delete adjustment notification on accept/reject
